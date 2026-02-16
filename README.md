@@ -21,16 +21,6 @@ I am a 2nd-year student and an aspiring **Technical Artist** focused on the inte
 | **DevOps & Security** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![CyberSecurity](https://img.shields.io/badge/Cyber%20Security-E01E2E?style=flat&logo=linux&logoColor=white) |
 | **Web Basics** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=emirhanvardar&show_icons=true&theme=tokyonight" alt="Emirhan's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhanvardar&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
-
----
-
 ### 🔗 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/emirhan-vardar-5b4a72253/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
