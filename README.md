@@ -24,3 +24,9 @@ Hello 👋, my name is Emirhan. I am a 2nd-year student specializing in 3D model
   <a href="https://linkedin.com/in/emirhan-vardar-550a0b329" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emirhan-vardar" height="30" width="40" /></a>
   <a href="https://instagram.com/emirhanvardar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emirhanvardar" height="30" width="40" /></a>
 </p>
+
+### 📺 Live Streams & Videos:
+<p align="left">
+  <a href="https://youtube.com/@emirhanvardar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emirhanvardar" height="30" width="40" /></a>
+  <a href="https://kick.com/hangaron" target="blank"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/kick.svg" alt="hangaron" height="30" width="40" /></a>
+</p>
