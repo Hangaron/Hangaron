@@ -25,10 +25,12 @@ Hello 👋, my name is Emirhan. I am a 2nd-year student specializing in 3D model
   <a href="https://instagram.com/emirhanvardar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emirhanvardar" height="30" width="40" /></a>
 </p>
 
-### 📺 Live Streams & Videos:
+### 📺 Live Streams & Videos
 <p align="left">
-  <a href="https://youtube.com/@emirhanvardar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emirhanvardar" height="30" width="40" /></a>
- <a href="https://kick.com/hangaron" target="blank">
-  <img src="https://i.ibb.co/XfXvXzC/kick-logo.png" alt="hangaron" height="30" width="30" />
-</a>
+  <a href="https://youtube.com/@emirhanvardar" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emirhanvardar" height="30" width="40" />
+  </a>
+  <a href="https://kick.com/hangaron" target="blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kick.svg" alt="hangaron" height="30" width="30" style="background-color: #05FF12; border-radius: 4px; padding: 2px;" />
+  </a>
 </p>
