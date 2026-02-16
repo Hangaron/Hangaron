@@ -34,4 +34,3 @@ Hello 👋, my name is Emirhan. I am a 2nd-year student specializing in 3D model
   <a href="https://kick.com/hangaronn" target="blank">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kick.svg" alt="hangaron" height="30" width="30" style="background-color: #05FF12; border-radius: 4px; padding: 2px;" />
   </a>
-</p> burada kicklogosu yeşil değil
