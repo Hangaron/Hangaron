@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Emirhan Vardar
 
-<!--
-**Hangaron/Hangaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Computer Aided Design & Animation Student at Okan University
 
-Here are some ideas to get you started:
+Hello 👋, my name is Emirhan. I am a 2nd-year student specializing in 3D modeling, animation, and game development. I am currently working on various projects involving Docker, C#, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **CrewMod** and **Mars Utopia**.
+- 🌱 I’m currently learning **Advanced Docker & Cyber Security**.
+- 💬 Ask me about **Blender, Unity, or Docker**.
+- 📫 How to reach me: **[E-posta Adresin]**
+
+### 🛠 Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
+
+### 🔗 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/emirhan-vardar-550a0b329" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emirhan-vardar" height="30" width="40" /></a>
+  <a href="https://instagram.com/emirhanvardar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emirhanvardar" height="30" width="40" /></a>
+</p>
