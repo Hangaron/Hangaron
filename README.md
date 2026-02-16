@@ -26,20 +26,12 @@ Hello 👋, my name is Emirhan. I am a 2nd-year student specializing in 3D model
 </p>
 
 ### 📺 Live Streams & Videos
+### 📺 Live Streams & Videos
 <p align="left">
-  <a href="https://www.youtube.com/@HangaronOfficial" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
-         alt="emirhanvardar" 
-         height="30" 
-         width="40" 
-         style="vertical-align: middle;" />
-  </a>
-  
-  <a href="https://kick.com/hangaronn" target="blank">
-    <img src="https://img.icons8.com/ios-filled/50/05FF12/kick.png" 
-         alt="hangaron" 
-         height="30" 
-         width="30" 
-         style="vertical-align: middle; margin-left: 10px;" />
-  </a>
-</p>
+  <a href="https://www.youtube.com/@HangaronOfficial" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emirhanvardar" height="30" width="40" />
+  </a>
+  <a href="https://kick.com/hangaronn" target="blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kick.svg" alt="hangaron" height="30" width="30" style="background-color: #05FF12; border-radius: 4px; padding: 2px;" />
+  </a>
+</p> burada kicklogosu yeşil değil
