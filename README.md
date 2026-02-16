@@ -28,5 +28,7 @@ Hello 👋, my name is Emirhan. I am a 2nd-year student specializing in 3D model
 ### 📺 Live Streams & Videos:
 <p align="left">
   <a href="https://youtube.com/@emirhanvardar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emirhanvardar" height="30" width="40" /></a>
-  <a href="https://kick.com/hangaron" target="blank"><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/kick.svg" alt="hangaron" height="30" width="40" /></a>
+ <a href="https://kick.com/hangaron" target="blank">
+  <img src="https://i.ibb.co/XfXvXzC/kick-logo.png" alt="hangaron" height="30" width="30" />
+</a>
 </p>
