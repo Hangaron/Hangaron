@@ -25,6 +25,4 @@ I am a 2nd-year student and an aspiring **Technical Artist** focused on the inte
 <p align="left">
   <a href="https://www.linkedin.com/in/emirhan-vardar-5b4a72253/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/emirhanvardar" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@HangaronOfficial" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://kick.com/hangaronn" target="blank"><img src="https://img.shields.io/badge/Kick-05FF12?style=for-the-badge&logo=kick&logoColor=black" /></a>
 </p>
