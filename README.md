@@ -7,7 +7,7 @@ Hello 👋, my name is Emirhan. I am a 2nd-year student specializing in 3D model
 - 🔭 I’m currently working on **CrewMod** and **Mars Utopia**.
 - 🌱 I’m currently learning **Advanced Docker & Cyber Security**.
 - 💬 Ask me about **Blender, Unity, or Docker**.
-- 📫 How to reach me: **[E-posta Adresin]**
+- 📫 How to reach me: **emirhanvardar96@gmail.com**
 
 ### 🛠 Languages and Tools:
 <p align="left">
