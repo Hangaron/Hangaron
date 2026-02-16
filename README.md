@@ -3,7 +3,7 @@
 
 I am a 2nd-year student and an aspiring **Technical Artist** focused on the intersection of creative design and robust engineering. I bridge the gap between high-quality 3D visuals and scalable backend systems.
 
-- 🔭 **Current Projects:** - `CrewMod`: [Kısa bir açıklama ekle]
+- 🔭 **Current Projects:** - `CrewMod`: [The Turkish language patch for the game client that I developed with my own team]
     - `Mars Utopia`: An immersive space-themed project.
 - 🌱 **Learning Path:** Advanced Docker orchestration & Cyber Security to secure game environments.
 - 🎨 **Creative Focus:** High-poly modeling in Blender and texturing in Photoshop.
